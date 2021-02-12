@@ -1,0 +1,8 @@
+{
+  "hello": {
+    "response": "world"
+  },
+  "ping": {
+    "response": "pong"
+  }
+}
